@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\BeOnMax\Authentication\bin\Debug\Authentication.exe.config
+C:\Users\Andrey\source\repos\BeOnMax\Authentication\bin\Debug\Authentication.exe
+C:\Users\Andrey\source\repos\BeOnMax\Authentication\bin\Debug\Authentication.pdb
+C:\Users\Andrey\source\repos\BeOnMax\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BeOnMax\Authentication\obj\Debug\Authentication.exe
+C:\Users\Andrey\source\repos\BeOnMax\Authentication\obj\Debug\Authentication.pdb
+C:\Users\Andrey\source\repos\BeOnMax\Authentication\obj\Debug\Authentication.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\SrArifmFunction\SrArifmFunction\bin\Debug\SrArifmFunction.exe.config
+C:\Users\Andrey\source\repos\SrArifmFunction\SrArifmFunction\bin\Debug\SrArifmFunction.exe
+C:\Users\Andrey\source\repos\SrArifmFunction\SrArifmFunction\bin\Debug\SrArifmFunction.pdb
+C:\Users\Andrey\source\repos\SrArifmFunction\SrArifmFunction\obj\Debug\SrArifmFunction.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\SrArifmFunction\SrArifmFunction\obj\Debug\SrArifmFunction.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\SrArifmFunction\SrArifmFunction\obj\Debug\SrArifmFunction.exe
+C:\Users\Andrey\source\repos\SrArifmFunction\SrArifmFunction\obj\Debug\SrArifmFunction.pdb

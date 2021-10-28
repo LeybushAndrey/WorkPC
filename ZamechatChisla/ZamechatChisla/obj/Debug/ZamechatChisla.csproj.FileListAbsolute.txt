@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\ZamechatChisla\ZamechatChisla\bin\Debug\ZamechatChisla.exe.config
+C:\Users\Andrey\source\repos\ZamechatChisla\ZamechatChisla\bin\Debug\ZamechatChisla.exe
+C:\Users\Andrey\source\repos\ZamechatChisla\ZamechatChisla\bin\Debug\ZamechatChisla.pdb
+C:\Users\Andrey\source\repos\ZamechatChisla\ZamechatChisla\obj\Debug\ZamechatChisla.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ZamechatChisla\ZamechatChisla\obj\Debug\ZamechatChisla.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ZamechatChisla\ZamechatChisla\obj\Debug\ZamechatChisla.exe
+C:\Users\Andrey\source\repos\ZamechatChisla\ZamechatChisla\obj\Debug\ZamechatChisla.pdb

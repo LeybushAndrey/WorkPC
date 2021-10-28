@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\KolMin\KolMin\obj\Debug\KolMin.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\KolMin\KolMin\bin\Debug\KolMin.exe.config
+C:\Users\Andrey\source\repos\KolMin\KolMin\bin\Debug\KolMin.exe
+C:\Users\Andrey\source\repos\KolMin\KolMin\bin\Debug\KolMin.pdb
+C:\Users\Andrey\source\repos\KolMin\KolMin\obj\Debug\KolMin.exe
+C:\Users\Andrey\source\repos\KolMin\KolMin\obj\Debug\KolMin.pdb
+C:\Users\Andrey\source\repos\KolMin\KolMin\obj\Debug\KolMin.csprojAssemblyReference.cache

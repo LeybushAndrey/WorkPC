@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Kurs2\ChessElephant\bin\Debug\ChessElephant.exe.config
+C:\Users\Andrey\source\repos\Kurs2\ChessElephant\bin\Debug\ChessElephant.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessElephant\bin\Debug\ChessElephant.pdb
+C:\Users\Andrey\source\repos\Kurs2\ChessElephant\obj\Debug\ChessElephant.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Kurs2\ChessElephant\obj\Debug\ChessElephant.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\ChessElephant\obj\Debug\ChessElephant.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessElephant\obj\Debug\ChessElephant.pdb

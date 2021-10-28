@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Automorf\Automorf\bin\Debug\Automorf.exe.config
+C:\Users\Andrey\source\repos\Automorf\Automorf\bin\Debug\Automorf.exe
+C:\Users\Andrey\source\repos\Automorf\Automorf\bin\Debug\Automorf.pdb
+C:\Users\Andrey\source\repos\Automorf\Automorf\obj\Debug\Automorf.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Automorf\Automorf\obj\Debug\Automorf.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Automorf\Automorf\obj\Debug\Automorf.exe
+C:\Users\Andrey\source\repos\Automorf\Automorf\obj\Debug\Automorf.pdb

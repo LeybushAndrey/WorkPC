@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Fact2\Fact2\bin\Debug\Fact2.exe.config
+C:\Users\Andrey\source\repos\Fact2\Fact2\bin\Debug\Fact2.exe
+C:\Users\Andrey\source\repos\Fact2\Fact2\bin\Debug\Fact2.pdb
+C:\Users\Andrey\source\repos\Fact2\Fact2\obj\Debug\Fact2.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Fact2\Fact2\obj\Debug\Fact2.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Fact2\Fact2\obj\Debug\Fact2.exe
+C:\Users\Andrey\source\repos\Fact2\Fact2\obj\Debug\Fact2.pdb

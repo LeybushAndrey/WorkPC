@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Identifikator\Identifikator\bin\Debug\Identifikator.exe.config
+C:\Users\Andrey\source\repos\Identifikator\Identifikator\bin\Debug\Identifikator.exe
+C:\Users\Andrey\source\repos\Identifikator\Identifikator\bin\Debug\Identifikator.pdb
+C:\Users\Andrey\source\repos\Identifikator\Identifikator\obj\Debug\Identifikator.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Identifikator\Identifikator\obj\Debug\Identifikator.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Identifikator\Identifikator\obj\Debug\Identifikator.exe
+C:\Users\Andrey\source\repos\Identifikator\Identifikator\obj\Debug\Identifikator.pdb

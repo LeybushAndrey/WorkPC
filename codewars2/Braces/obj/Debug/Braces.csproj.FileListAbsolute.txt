@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\codewars2\Braces\bin\Debug\Braces.exe.config
+C:\Users\Andrey\source\repos\codewars2\Braces\bin\Debug\Braces.exe
+C:\Users\Andrey\source\repos\codewars2\Braces\bin\Debug\Braces.pdb
+C:\Users\Andrey\source\repos\codewars2\Braces\obj\Debug\Braces.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\codewars2\Braces\obj\Debug\Braces.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\codewars2\Braces\obj\Debug\Braces.exe
+C:\Users\Andrey\source\repos\codewars2\Braces\obj\Debug\Braces.pdb

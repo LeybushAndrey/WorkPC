@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Kurs2\ChessSquare\bin\Debug\ChessSquare.exe.config
+C:\Users\Andrey\source\repos\Kurs2\ChessSquare\bin\Debug\ChessSquare.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessSquare\bin\Debug\ChessSquare.pdb
+C:\Users\Andrey\source\repos\Kurs2\ChessSquare\obj\Debug\ChessSquare.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\ChessSquare\obj\Debug\ChessSquare.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessSquare\obj\Debug\ChessSquare.pdb
+C:\Users\Andrey\source\repos\Kurs2\ChessSquare\obj\Debug\ChessSquare.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\SumObratChisel\SumObratChisel\bin\Debug\SumObratChisel.exe.config
+C:\Users\Andrey\source\repos\SumObratChisel\SumObratChisel\bin\Debug\SumObratChisel.exe
+C:\Users\Andrey\source\repos\SumObratChisel\SumObratChisel\bin\Debug\SumObratChisel.pdb
+C:\Users\Andrey\source\repos\SumObratChisel\SumObratChisel\obj\Debug\SumObratChisel.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\SumObratChisel\SumObratChisel\obj\Debug\SumObratChisel.exe
+C:\Users\Andrey\source\repos\SumObratChisel\SumObratChisel\obj\Debug\SumObratChisel.pdb

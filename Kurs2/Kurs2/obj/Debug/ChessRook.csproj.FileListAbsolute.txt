@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.exe.config
+C:\Users\Andrey\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.exe
+C:\Users\Andrey\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.pdb
+C:\Users\Andrey\source\repos\Kurs2\Kurs2\obj\Debug\ChessRook.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Kurs2\Kurs2\obj\Debug\ChessRook.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.exe
+C:\Users\Andrey\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.pdb

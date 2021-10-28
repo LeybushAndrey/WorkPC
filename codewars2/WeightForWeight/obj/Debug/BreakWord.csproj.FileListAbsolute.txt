@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\codewars2\WeightForWeight\bin\Debug\WeightForWeight.exe.config
+C:\Users\Andrey\source\repos\codewars2\WeightForWeight\bin\Debug\WeightForWeight.exe
+C:\Users\Andrey\source\repos\codewars2\WeightForWeight\bin\Debug\WeightForWeight.pdb
+C:\Users\Andrey\source\repos\codewars2\WeightForWeight\obj\Debug\BreakWord.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\codewars2\WeightForWeight\obj\Debug\BreakWord.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\codewars2\WeightForWeight\obj\Debug\WeightForWeight.exe
+C:\Users\Andrey\source\repos\codewars2\WeightForWeight\obj\Debug\WeightForWeight.pdb

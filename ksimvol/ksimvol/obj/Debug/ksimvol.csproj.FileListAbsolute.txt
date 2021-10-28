@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\ksimvol\ksimvol\obj\Debug\ksimvol.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ksimvol\ksimvol\bin\Debug\ksimvol.exe.config
+C:\Users\Andrey\source\repos\ksimvol\ksimvol\bin\Debug\ksimvol.exe
+C:\Users\Andrey\source\repos\ksimvol\ksimvol\bin\Debug\ksimvol.pdb
+C:\Users\Andrey\source\repos\ksimvol\ksimvol\obj\Debug\ksimvol.exe
+C:\Users\Andrey\source\repos\ksimvol\ksimvol\obj\Debug\ksimvol.pdb

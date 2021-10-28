@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\EdinstvElem\EdinstvElem\bin\Debug\EdinstvElem.exe.config
+C:\Users\Andrey\source\repos\EdinstvElem\EdinstvElem\bin\Debug\EdinstvElem.exe
+C:\Users\Andrey\source\repos\EdinstvElem\EdinstvElem\bin\Debug\EdinstvElem.pdb
+C:\Users\Andrey\source\repos\EdinstvElem\EdinstvElem\obj\Debug\EdinstvElem.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\EdinstvElem\EdinstvElem\obj\Debug\EdinstvElem.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\EdinstvElem\EdinstvElem\obj\Debug\EdinstvElem.exe
+C:\Users\Andrey\source\repos\EdinstvElem\EdinstvElem\obj\Debug\EdinstvElem.pdb

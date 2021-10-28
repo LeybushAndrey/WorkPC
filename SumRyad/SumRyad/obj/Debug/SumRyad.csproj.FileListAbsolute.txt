@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\SumRyad\SumRyad\obj\Debug\SumRyad.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\SumRyad\SumRyad\bin\Debug\SumRyad.exe.config
+C:\Users\Andrey\source\repos\SumRyad\SumRyad\bin\Debug\SumRyad.exe
+C:\Users\Andrey\source\repos\SumRyad\SumRyad\bin\Debug\SumRyad.pdb
+C:\Users\Andrey\source\repos\SumRyad\SumRyad\obj\Debug\SumRyad.exe
+C:\Users\Andrey\source\repos\SumRyad\SumRyad\obj\Debug\SumRyad.pdb

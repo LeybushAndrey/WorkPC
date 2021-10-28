@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\ChaastAlfavita\ChaastAlfavita\obj\Debug\ChaastAlfavita.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ChaastAlfavita\ChaastAlfavita\bin\Debug\ChaastAlfavita.exe.config
+C:\Users\Andrey\source\repos\ChaastAlfavita\ChaastAlfavita\bin\Debug\ChaastAlfavita.exe
+C:\Users\Andrey\source\repos\ChaastAlfavita\ChaastAlfavita\bin\Debug\ChaastAlfavita.pdb
+C:\Users\Andrey\source\repos\ChaastAlfavita\ChaastAlfavita\obj\Debug\ChaastAlfavita.exe
+C:\Users\Andrey\source\repos\ChaastAlfavita\ChaastAlfavita\obj\Debug\ChaastAlfavita.pdb

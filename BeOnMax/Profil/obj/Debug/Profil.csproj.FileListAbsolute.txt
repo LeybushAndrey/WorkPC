@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\BeOnMax\Profil\bin\Debug\Profil.exe.config
+C:\Users\Andrey\source\repos\BeOnMax\Profil\bin\Debug\Profil.exe
+C:\Users\Andrey\source\repos\BeOnMax\Profil\bin\Debug\Profil.pdb
+C:\Users\Andrey\source\repos\BeOnMax\Profil\obj\Debug\Profil.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\BeOnMax\Profil\obj\Debug\Profil.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BeOnMax\Profil\obj\Debug\Profil.exe
+C:\Users\Andrey\source\repos\BeOnMax\Profil\obj\Debug\Profil.pdb

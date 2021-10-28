@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\TablicaUmnog\TablicaUmnog\obj\Debug\TablicaUmnog.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\TablicaUmnog\TablicaUmnog\obj\Debug\TablicaUmnog.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\TablicaUmnog\TablicaUmnog\bin\Debug\TablicaUmnog.exe.config
+C:\Users\Andrey\source\repos\TablicaUmnog\TablicaUmnog\bin\Debug\TablicaUmnog.exe
+C:\Users\Andrey\source\repos\TablicaUmnog\TablicaUmnog\bin\Debug\TablicaUmnog.pdb
+C:\Users\Andrey\source\repos\TablicaUmnog\TablicaUmnog\obj\Debug\TablicaUmnog.exe
+C:\Users\Andrey\source\repos\TablicaUmnog\TablicaUmnog\obj\Debug\TablicaUmnog.pdb

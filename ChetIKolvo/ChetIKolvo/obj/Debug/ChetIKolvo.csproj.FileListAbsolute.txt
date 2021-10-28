@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\ChetIKolvo\ChetIKolvo\bin\Debug\ChetIKolvo.exe.config
+C:\Users\Andrey\source\repos\ChetIKolvo\ChetIKolvo\bin\Debug\ChetIKolvo.exe
+C:\Users\Andrey\source\repos\ChetIKolvo\ChetIKolvo\bin\Debug\ChetIKolvo.pdb
+C:\Users\Andrey\source\repos\ChetIKolvo\ChetIKolvo\obj\Debug\ChetIKolvo.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ChetIKolvo\ChetIKolvo\obj\Debug\ChetIKolvo.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ChetIKolvo\ChetIKolvo\obj\Debug\ChetIKolvo.exe
+C:\Users\Andrey\source\repos\ChetIKolvo\ChetIKolvo\obj\Debug\ChetIKolvo.pdb

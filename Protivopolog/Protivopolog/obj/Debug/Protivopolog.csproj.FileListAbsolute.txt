@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Protivopolog\Protivopolog\bin\Debug\Protivopolog.exe.config
+C:\Users\Andrey\source\repos\Protivopolog\Protivopolog\bin\Debug\Protivopolog.exe
+C:\Users\Andrey\source\repos\Protivopolog\Protivopolog\bin\Debug\Protivopolog.pdb
+C:\Users\Andrey\source\repos\Protivopolog\Protivopolog\obj\Debug\Protivopolog.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Protivopolog\Protivopolog\obj\Debug\Protivopolog.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Protivopolog\Protivopolog\obj\Debug\Protivopolog.exe
+C:\Users\Andrey\source\repos\Protivopolog\Protivopolog\obj\Debug\Protivopolog.pdb

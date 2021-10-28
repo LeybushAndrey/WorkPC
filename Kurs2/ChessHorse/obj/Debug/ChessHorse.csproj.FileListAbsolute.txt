@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\Kurs2\ChessHorse\bin\Debug\ChessHorse.exe.config
+C:\Users\Andrey\source\repos\Kurs2\ChessHorse\bin\Debug\ChessHorse.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessHorse\bin\Debug\ChessHorse.pdb
+C:\Users\Andrey\source\repos\Kurs2\ChessHorse\obj\Debug\ChessHorse.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\ChessHorse\obj\Debug\ChessHorse.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessHorse\obj\Debug\ChessHorse.pdb

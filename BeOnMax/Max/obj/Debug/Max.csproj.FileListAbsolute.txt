@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\BeOnMax\Max\bin\Debug\Max.exe.config
+C:\Users\Andrey\source\repos\BeOnMax\Max\bin\Debug\Max.exe
+C:\Users\Andrey\source\repos\BeOnMax\Max\bin\Debug\Max.pdb
+C:\Users\Andrey\source\repos\BeOnMax\Max\obj\Debug\Max.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BeOnMax\Max\obj\Debug\Max.exe
+C:\Users\Andrey\source\repos\BeOnMax\Max\obj\Debug\Max.pdb

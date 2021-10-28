@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\KolvoKagdoiBukvi\KolvoKagdoiBukvi\bin\Debug\KolvoKagdoiBukvi.exe.config
+C:\Users\Andrey\source\repos\KolvoKagdoiBukvi\KolvoKagdoiBukvi\bin\Debug\KolvoKagdoiBukvi.exe
+C:\Users\Andrey\source\repos\KolvoKagdoiBukvi\KolvoKagdoiBukvi\bin\Debug\KolvoKagdoiBukvi.pdb
+C:\Users\Andrey\source\repos\KolvoKagdoiBukvi\KolvoKagdoiBukvi\obj\Debug\KolvoKagdoiBukvi.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\KolvoKagdoiBukvi\KolvoKagdoiBukvi\obj\Debug\KolvoKagdoiBukvi.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\KolvoKagdoiBukvi\KolvoKagdoiBukvi\obj\Debug\KolvoKagdoiBukvi.exe
+C:\Users\Andrey\source\repos\KolvoKagdoiBukvi\KolvoKagdoiBukvi\obj\Debug\KolvoKagdoiBukvi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\SovershennoeChislo\SovershennoeChislo\obj\Debug\SovershennoeChislo.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\SovershennoeChislo\SovershennoeChislo\obj\Debug\SovershennoeChislo.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\SovershennoeChislo\SovershennoeChislo\bin\Debug\SovershennoeChislo.exe.config
+C:\Users\Andrey\source\repos\SovershennoeChislo\SovershennoeChislo\bin\Debug\SovershennoeChislo.exe
+C:\Users\Andrey\source\repos\SovershennoeChislo\SovershennoeChislo\bin\Debug\SovershennoeChislo.pdb
+C:\Users\Andrey\source\repos\SovershennoeChislo\SovershennoeChislo\obj\Debug\SovershennoeChislo.exe
+C:\Users\Andrey\source\repos\SovershennoeChislo\SovershennoeChislo\obj\Debug\SovershennoeChislo.pdb

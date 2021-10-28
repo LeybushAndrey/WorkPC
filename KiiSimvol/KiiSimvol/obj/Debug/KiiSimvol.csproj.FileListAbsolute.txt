@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\KiiSimvol\KiiSimvol\bin\Debug\KiiSimvol.exe.config
+C:\Users\Andrey\source\repos\KiiSimvol\KiiSimvol\bin\Debug\KiiSimvol.exe
+C:\Users\Andrey\source\repos\KiiSimvol\KiiSimvol\bin\Debug\KiiSimvol.pdb
+C:\Users\Andrey\source\repos\KiiSimvol\KiiSimvol\obj\Debug\KiiSimvol.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\KiiSimvol\KiiSimvol\obj\Debug\KiiSimvol.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\KiiSimvol\KiiSimvol\obj\Debug\KiiSimvol.exe
+C:\Users\Andrey\source\repos\KiiSimvol\KiiSimvol\obj\Debug\KiiSimvol.pdb

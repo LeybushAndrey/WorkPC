@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\NormirovanieStroki\NormirovanieStroki\bin\Debug\NormirovanieStroki.exe.config
+C:\Users\Andrey\source\repos\NormirovanieStroki\NormirovanieStroki\bin\Debug\NormirovanieStroki.exe
+C:\Users\Andrey\source\repos\NormirovanieStroki\NormirovanieStroki\bin\Debug\NormirovanieStroki.pdb
+C:\Users\Andrey\source\repos\NormirovanieStroki\NormirovanieStroki\obj\Debug\NormirovanieStroki.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\NormirovanieStroki\NormirovanieStroki\obj\Debug\NormirovanieStroki.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\NormirovanieStroki\NormirovanieStroki\obj\Debug\NormirovanieStroki.exe
+C:\Users\Andrey\source\repos\NormirovanieStroki\NormirovanieStroki\obj\Debug\NormirovanieStroki.pdb

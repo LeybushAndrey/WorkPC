@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Sostyazania\Sostyazania\bin\Debug\Sostyazania.exe.config
+C:\Users\Andrey\source\repos\Sostyazania\Sostyazania\bin\Debug\Sostyazania.exe
+C:\Users\Andrey\source\repos\Sostyazania\Sostyazania\bin\Debug\Sostyazania.pdb
+C:\Users\Andrey\source\repos\Sostyazania\Sostyazania\obj\Debug\Sostyazania.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Sostyazania\Sostyazania\obj\Debug\Sostyazania.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sostyazania\Sostyazania\obj\Debug\Sostyazania.exe
+C:\Users\Andrey\source\repos\Sostyazania\Sostyazania\obj\Debug\Sostyazania.pdb

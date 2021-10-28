@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\StepenChisla\StepenChisla\bin\Debug\StepenChisla.exe.config
+C:\Users\Andrey\source\repos\StepenChisla\StepenChisla\bin\Debug\StepenChisla.exe
+C:\Users\Andrey\source\repos\StepenChisla\StepenChisla\bin\Debug\StepenChisla.pdb
+C:\Users\Andrey\source\repos\StepenChisla\StepenChisla\obj\Debug\StepenChisla.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\StepenChisla\StepenChisla\obj\Debug\StepenChisla.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\StepenChisla\StepenChisla\obj\Debug\StepenChisla.exe
+C:\Users\Andrey\source\repos\StepenChisla\StepenChisla\obj\Debug\StepenChisla.pdb

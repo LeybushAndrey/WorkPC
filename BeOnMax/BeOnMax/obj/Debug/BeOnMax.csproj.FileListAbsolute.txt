@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\BeOnMax\BeOnMax\bin\Debug\BeOnMax.exe.config
+C:\Users\Andrey\source\repos\BeOnMax\BeOnMax\bin\Debug\BeOnMax.exe
+C:\Users\Andrey\source\repos\BeOnMax\BeOnMax\bin\Debug\BeOnMax.pdb
+C:\Users\Andrey\source\repos\BeOnMax\BeOnMax\obj\Debug\BeOnMax.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\BeOnMax\BeOnMax\obj\Debug\BeOnMax.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BeOnMax\BeOnMax\obj\Debug\BeOnMax.exe
+C:\Users\Andrey\source\repos\BeOnMax\BeOnMax\obj\Debug\BeOnMax.pdb

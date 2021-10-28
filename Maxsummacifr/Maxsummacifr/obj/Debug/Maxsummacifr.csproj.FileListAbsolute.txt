@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Maxsummacifr\Maxsummacifr\obj\Debug\Maxsummacifr.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Maxsummacifr\Maxsummacifr\obj\Debug\Maxsummacifr.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Maxsummacifr\Maxsummacifr\bin\Debug\Maxsummacifr.exe.config
+C:\Users\Andrey\source\repos\Maxsummacifr\Maxsummacifr\bin\Debug\Maxsummacifr.exe
+C:\Users\Andrey\source\repos\Maxsummacifr\Maxsummacifr\bin\Debug\Maxsummacifr.pdb
+C:\Users\Andrey\source\repos\Maxsummacifr\Maxsummacifr\obj\Debug\Maxsummacifr.exe
+C:\Users\Andrey\source\repos\Maxsummacifr\Maxsummacifr\obj\Debug\Maxsummacifr.pdb

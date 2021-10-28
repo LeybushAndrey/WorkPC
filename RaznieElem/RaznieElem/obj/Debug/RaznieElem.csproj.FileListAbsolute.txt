@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\RaznieElem\RaznieElem\bin\Debug\RaznieElem.exe.config
+C:\Users\Andrey\source\repos\RaznieElem\RaznieElem\bin\Debug\RaznieElem.exe
+C:\Users\Andrey\source\repos\RaznieElem\RaznieElem\bin\Debug\RaznieElem.pdb
+C:\Users\Andrey\source\repos\RaznieElem\RaznieElem\obj\Debug\RaznieElem.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\RaznieElem\RaznieElem\obj\Debug\RaznieElem.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\RaznieElem\RaznieElem\obj\Debug\RaznieElem.exe
+C:\Users\Andrey\source\repos\RaznieElem\RaznieElem\obj\Debug\RaznieElem.pdb

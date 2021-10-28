@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\BeOnMax\Rim\bin\Debug\Rim.exe.config
+C:\Users\Andrey\source\repos\BeOnMax\Rim\bin\Debug\Rim.exe
+C:\Users\Andrey\source\repos\BeOnMax\Rim\bin\Debug\Rim.pdb
+C:\Users\Andrey\source\repos\BeOnMax\Rim\obj\Debug\Rim.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\BeOnMax\Rim\obj\Debug\Rim.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BeOnMax\Rim\obj\Debug\Rim.exe
+C:\Users\Andrey\source\repos\BeOnMax\Rim\obj\Debug\Rim.pdb

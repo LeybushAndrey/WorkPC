@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Perevertish\Perevertish\bin\Debug\Perevertish.exe.config
+C:\Users\Andrey\source\repos\Perevertish\Perevertish\bin\Debug\Perevertish.exe
+C:\Users\Andrey\source\repos\Perevertish\Perevertish\bin\Debug\Perevertish.pdb
+C:\Users\Andrey\source\repos\Perevertish\Perevertish\obj\Debug\Perevertish.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Perevertish\Perevertish\obj\Debug\Perevertish.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Perevertish\Perevertish\obj\Debug\Perevertish.exe
+C:\Users\Andrey\source\repos\Perevertish\Perevertish\obj\Debug\Perevertish.pdb

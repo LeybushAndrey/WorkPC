@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Vtoroimax\Vtoroimax\obj\Debug\Vtoroimax.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Vtoroimax\Vtoroimax\obj\Debug\Vtoroimax.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Vtoroimax\Vtoroimax\bin\Debug\Vtoroimax.exe.config
+C:\Users\Andrey\source\repos\Vtoroimax\Vtoroimax\bin\Debug\Vtoroimax.exe
+C:\Users\Andrey\source\repos\Vtoroimax\Vtoroimax\bin\Debug\Vtoroimax.pdb
+C:\Users\Andrey\source\repos\Vtoroimax\Vtoroimax\obj\Debug\Vtoroimax.exe
+C:\Users\Andrey\source\repos\Vtoroimax\Vtoroimax\obj\Debug\Vtoroimax.pdb

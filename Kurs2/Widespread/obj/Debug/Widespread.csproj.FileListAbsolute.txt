@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Kurs2\Widespread\obj\Debug\Widespread.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Kurs2\Widespread\obj\Debug\Widespread.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\Widespread\bin\Debug\Widespread.exe.config
+C:\Users\Andrey\source\repos\Kurs2\Widespread\bin\Debug\Widespread.exe
+C:\Users\Andrey\source\repos\Kurs2\Widespread\bin\Debug\Widespread.pdb
+C:\Users\Andrey\source\repos\Kurs2\Widespread\obj\Debug\Widespread.exe
+C:\Users\Andrey\source\repos\Kurs2\Widespread\obj\Debug\Widespread.pdb

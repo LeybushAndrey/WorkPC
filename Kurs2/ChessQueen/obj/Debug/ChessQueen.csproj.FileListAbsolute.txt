@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\Kurs2\ChessQueen\bin\Debug\ChessQueen.exe.config
+C:\Users\Andrey\source\repos\Kurs2\ChessQueen\bin\Debug\ChessQueen.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessQueen\bin\Debug\ChessQueen.pdb
+C:\Users\Andrey\source\repos\Kurs2\ChessQueen\obj\Debug\ChessQueen.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\ChessQueen\obj\Debug\ChessQueen.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessQueen\obj\Debug\ChessQueen.pdb

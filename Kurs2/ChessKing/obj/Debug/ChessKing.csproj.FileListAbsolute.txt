@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Kurs2\ChessKing\bin\Debug\ChessKing.exe.config
+C:\Users\Andrey\source\repos\Kurs2\ChessKing\bin\Debug\ChessKing.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessKing\bin\Debug\ChessKing.pdb
+C:\Users\Andrey\source\repos\Kurs2\ChessKing\obj\Debug\ChessKing.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Kurs2\ChessKing\obj\Debug\ChessKing.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\ChessKing\obj\Debug\ChessKing.exe
+C:\Users\Andrey\source\repos\Kurs2\ChessKing\obj\Debug\ChessKing.pdb

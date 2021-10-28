@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\CheckEasy\CheckEasy\obj\Debug\CheckEasy.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\CheckEasy\CheckEasy\obj\Debug\CheckEasy.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\CheckEasy\CheckEasy\bin\Debug\CheckEasy.exe.config
+C:\Users\Andrey\source\repos\CheckEasy\CheckEasy\bin\Debug\CheckEasy.exe
+C:\Users\Andrey\source\repos\CheckEasy\CheckEasy\bin\Debug\CheckEasy.pdb
+C:\Users\Andrey\source\repos\CheckEasy\CheckEasy\obj\Debug\CheckEasy.exe
+C:\Users\Andrey\source\repos\CheckEasy\CheckEasy\obj\Debug\CheckEasy.pdb

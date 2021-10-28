@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\PerestavSosedElem\PerestavSosedElem\bin\Debug\PerestavSosedElem.exe.config
+C:\Users\Andrey\source\repos\PerestavSosedElem\PerestavSosedElem\bin\Debug\PerestavSosedElem.exe
+C:\Users\Andrey\source\repos\PerestavSosedElem\PerestavSosedElem\bin\Debug\PerestavSosedElem.pdb
+C:\Users\Andrey\source\repos\PerestavSosedElem\PerestavSosedElem\obj\Debug\PerestavSosedElem.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\PerestavSosedElem\PerestavSosedElem\obj\Debug\PerestavSosedElem.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\PerestavSosedElem\PerestavSosedElem\obj\Debug\PerestavSosedElem.exe
+C:\Users\Andrey\source\repos\PerestavSosedElem\PerestavSosedElem\obj\Debug\PerestavSosedElem.pdb

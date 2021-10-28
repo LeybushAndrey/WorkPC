@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\BeOnMax\Faktorial\bin\Debug\Faktorial.exe.config
+C:\Users\Andrey\source\repos\BeOnMax\Faktorial\bin\Debug\Faktorial.exe
+C:\Users\Andrey\source\repos\BeOnMax\Faktorial\bin\Debug\Faktorial.pdb
+C:\Users\Andrey\source\repos\BeOnMax\Faktorial\obj\Debug\Faktorial.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\BeOnMax\Faktorial\obj\Debug\Faktorial.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BeOnMax\Faktorial\obj\Debug\Faktorial.exe
+C:\Users\Andrey\source\repos\BeOnMax\Faktorial\obj\Debug\Faktorial.pdb

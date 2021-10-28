@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Metod\FindIndex\bin\Debug\FindIndex.exe.config
+C:\Users\Andrey\source\repos\Metod\FindIndex\bin\Debug\FindIndex.exe
+C:\Users\Andrey\source\repos\Metod\FindIndex\bin\Debug\FindIndex.pdb
+C:\Users\Andrey\source\repos\Metod\FindIndex\obj\Debug\FindIndex.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Metod\FindIndex\obj\Debug\FindIndex.exe
+C:\Users\Andrey\source\repos\Metod\FindIndex\obj\Debug\FindIndex.pdb
+C:\Users\Andrey\source\repos\Metod\FindIndex\obj\Debug\FindIndex.csprojAssemblyReference.cache

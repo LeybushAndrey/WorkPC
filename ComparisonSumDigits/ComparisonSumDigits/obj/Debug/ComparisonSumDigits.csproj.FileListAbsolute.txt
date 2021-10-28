@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\ComparisonSumDigits\ComparisonSumDigits\bin\Debug\ComparisonSumDigits.exe.config
+C:\Users\Andrey\source\repos\ComparisonSumDigits\ComparisonSumDigits\bin\Debug\ComparisonSumDigits.exe
+C:\Users\Andrey\source\repos\ComparisonSumDigits\ComparisonSumDigits\bin\Debug\ComparisonSumDigits.pdb
+C:\Users\Andrey\source\repos\ComparisonSumDigits\ComparisonSumDigits\obj\Debug\ComparisonSumDigits.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ComparisonSumDigits\ComparisonSumDigits\obj\Debug\ComparisonSumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ComparisonSumDigits\ComparisonSumDigits\obj\Debug\ComparisonSumDigits.exe
+C:\Users\Andrey\source\repos\ComparisonSumDigits\ComparisonSumDigits\obj\Debug\ComparisonSumDigits.pdb

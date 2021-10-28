@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\Kurs2\List\bin\Debug\List.exe.config
+C:\Users\Andrey\source\repos\Kurs2\List\bin\Debug\List.exe
+C:\Users\Andrey\source\repos\Kurs2\List\bin\Debug\List.pdb
+C:\Users\Andrey\source\repos\Kurs2\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\List\obj\Debug\List.exe
+C:\Users\Andrey\source\repos\Kurs2\List\obj\Debug\List.pdb

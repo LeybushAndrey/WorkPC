@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Andrey\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Andrey\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Andrey\source\repos\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Andrey\source\repos\Calc\Calc\obj\Debug\Calc.pdb

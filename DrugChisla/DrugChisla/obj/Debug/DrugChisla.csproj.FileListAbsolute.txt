@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\DrugChisla\DrugChisla\obj\Debug\DrugChisla.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\DrugChisla\DrugChisla\obj\Debug\DrugChisla.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\DrugChisla\DrugChisla\bin\Debug\DrugChisla.exe.config
+C:\Users\Andrey\source\repos\DrugChisla\DrugChisla\bin\Debug\DrugChisla.exe
+C:\Users\Andrey\source\repos\DrugChisla\DrugChisla\bin\Debug\DrugChisla.pdb
+C:\Users\Andrey\source\repos\DrugChisla\DrugChisla\obj\Debug\DrugChisla.exe
+C:\Users\Andrey\source\repos\DrugChisla\DrugChisla\obj\Debug\DrugChisla.pdb

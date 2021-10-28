@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Kurs2\CheckPairs\bin\Debug\CheckPairs.exe.config
+C:\Users\Andrey\source\repos\Kurs2\CheckPairs\bin\Debug\CheckPairs.exe
+C:\Users\Andrey\source\repos\Kurs2\CheckPairs\bin\Debug\CheckPairs.pdb
+C:\Users\Andrey\source\repos\Kurs2\CheckPairs\obj\Debug\CheckPairs.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Kurs2\CheckPairs\obj\Debug\CheckPairs.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\CheckPairs\obj\Debug\CheckPairs.exe
+C:\Users\Andrey\source\repos\Kurs2\CheckPairs\obj\Debug\CheckPairs.pdb

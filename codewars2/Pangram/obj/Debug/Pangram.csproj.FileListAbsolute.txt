@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\codewars2\Pangram\obj\Debug\Pangram.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\codewars2\Pangram\obj\Debug\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\codewars2\Pangram\bin\Debug\Pangram.exe.config
+C:\Users\Andrey\source\repos\codewars2\Pangram\bin\Debug\Pangram.exe
+C:\Users\Andrey\source\repos\codewars2\Pangram\bin\Debug\Pangram.pdb
+C:\Users\Andrey\source\repos\codewars2\Pangram\obj\Debug\Pangram.exe
+C:\Users\Andrey\source\repos\codewars2\Pangram\obj\Debug\Pangram.pdb

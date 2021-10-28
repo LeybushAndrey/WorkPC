@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\PalindromMassiv\PalindromMassiv\obj\Debug\PalindromMassiv.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\PalindromMassiv\PalindromMassiv\obj\Debug\PalindromMassiv.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\PalindromMassiv\PalindromMassiv\bin\Debug\PalindromMassiv.exe.config
+C:\Users\Andrey\source\repos\PalindromMassiv\PalindromMassiv\bin\Debug\PalindromMassiv.exe
+C:\Users\Andrey\source\repos\PalindromMassiv\PalindromMassiv\bin\Debug\PalindromMassiv.pdb
+C:\Users\Andrey\source\repos\PalindromMassiv\PalindromMassiv\obj\Debug\PalindromMassiv.exe
+C:\Users\Andrey\source\repos\PalindromMassiv\PalindromMassiv\obj\Debug\PalindromMassiv.pdb

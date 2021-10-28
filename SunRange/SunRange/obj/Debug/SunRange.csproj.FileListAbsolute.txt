@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\SunRange\SunRange\bin\Debug\SunRange.exe.config
+C:\Users\Andrey\source\repos\SunRange\SunRange\bin\Debug\SunRange.exe
+C:\Users\Andrey\source\repos\SunRange\SunRange\bin\Debug\SunRange.pdb
+C:\Users\Andrey\source\repos\SunRange\SunRange\obj\Debug\SunRange.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\SunRange\SunRange\obj\Debug\SunRange.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\SunRange\SunRange\obj\Debug\SunRange.exe
+C:\Users\Andrey\source\repos\SunRange\SunRange\obj\Debug\SunRange.pdb

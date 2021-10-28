@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\OdinakovieBukvi\OdinakovieBukvi\bin\Debug\OdinakovieBukvi.exe.config
+C:\Users\Andrey\source\repos\OdinakovieBukvi\OdinakovieBukvi\bin\Debug\OdinakovieBukvi.exe
+C:\Users\Andrey\source\repos\OdinakovieBukvi\OdinakovieBukvi\bin\Debug\OdinakovieBukvi.pdb
+C:\Users\Andrey\source\repos\OdinakovieBukvi\OdinakovieBukvi\obj\Debug\OdinakovieBukvi.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\OdinakovieBukvi\OdinakovieBukvi\obj\Debug\OdinakovieBukvi.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\OdinakovieBukvi\OdinakovieBukvi\obj\Debug\OdinakovieBukvi.exe
+C:\Users\Andrey\source\repos\OdinakovieBukvi\OdinakovieBukvi\obj\Debug\OdinakovieBukvi.pdb

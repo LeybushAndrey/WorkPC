@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\SimmetrMatrica\SimmetrMatrica\bin\Debug\SimmetrMatrica.exe.config
+C:\Users\Andrey\source\repos\SimmetrMatrica\SimmetrMatrica\bin\Debug\SimmetrMatrica.exe
+C:\Users\Andrey\source\repos\SimmetrMatrica\SimmetrMatrica\bin\Debug\SimmetrMatrica.pdb
+C:\Users\Andrey\source\repos\SimmetrMatrica\SimmetrMatrica\obj\Debug\SimmetrMatrica.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\SimmetrMatrica\SimmetrMatrica\obj\Debug\SimmetrMatrica.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\SimmetrMatrica\SimmetrMatrica\obj\Debug\SimmetrMatrica.exe
+C:\Users\Andrey\source\repos\SimmetrMatrica\SimmetrMatrica\obj\Debug\SimmetrMatrica.pdb

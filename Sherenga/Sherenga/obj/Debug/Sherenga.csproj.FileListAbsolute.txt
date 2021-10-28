@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Sherenga\Sherenga\obj\Debug\Sherenga.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Sherenga\Sherenga\obj\Debug\Sherenga.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sherenga\Sherenga\bin\Debug\Sherenga.exe.config
+C:\Users\Andrey\source\repos\Sherenga\Sherenga\bin\Debug\Sherenga.exe
+C:\Users\Andrey\source\repos\Sherenga\Sherenga\bin\Debug\Sherenga.pdb
+C:\Users\Andrey\source\repos\Sherenga\Sherenga\obj\Debug\Sherenga.exe
+C:\Users\Andrey\source\repos\Sherenga\Sherenga\obj\Debug\Sherenga.pdb

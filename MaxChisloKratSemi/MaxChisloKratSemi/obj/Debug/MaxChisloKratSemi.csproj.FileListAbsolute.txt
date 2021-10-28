@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\MaxChisloKratSemi\MaxChisloKratSemi\obj\Debug\MaxChisloKratSemi.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\MaxChisloKratSemi\MaxChisloKratSemi\bin\Debug\MaxChisloKratSemi.exe.config
+C:\Users\Andrey\source\repos\MaxChisloKratSemi\MaxChisloKratSemi\bin\Debug\MaxChisloKratSemi.exe
+C:\Users\Andrey\source\repos\MaxChisloKratSemi\MaxChisloKratSemi\bin\Debug\MaxChisloKratSemi.pdb
+C:\Users\Andrey\source\repos\MaxChisloKratSemi\MaxChisloKratSemi\obj\Debug\MaxChisloKratSemi.exe
+C:\Users\Andrey\source\repos\MaxChisloKratSemi\MaxChisloKratSemi\obj\Debug\MaxChisloKratSemi.pdb

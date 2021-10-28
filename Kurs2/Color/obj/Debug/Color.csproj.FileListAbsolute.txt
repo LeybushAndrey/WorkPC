@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Kurs2\Color\bin\Debug\Color.exe.config
+C:\Users\Andrey\source\repos\Kurs2\Color\bin\Debug\Color.exe
+C:\Users\Andrey\source\repos\Kurs2\Color\bin\Debug\Color.pdb
+C:\Users\Andrey\source\repos\Kurs2\Color\obj\Debug\Color.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Kurs2\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Kurs2\Color\obj\Debug\Color.exe
+C:\Users\Andrey\source\repos\Kurs2\Color\obj\Debug\Color.pdb

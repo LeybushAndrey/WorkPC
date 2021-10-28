@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\BeOnMax\RimReshenie\bin\Debug\RimReshenie.exe.config
+C:\Users\Andrey\source\repos\BeOnMax\RimReshenie\bin\Debug\RimReshenie.exe
+C:\Users\Andrey\source\repos\BeOnMax\RimReshenie\bin\Debug\RimReshenie.pdb
+C:\Users\Andrey\source\repos\BeOnMax\RimReshenie\obj\Debug\RimReshenie.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\BeOnMax\RimReshenie\obj\Debug\RimReshenie.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\BeOnMax\RimReshenie\obj\Debug\RimReshenie.exe
+C:\Users\Andrey\source\repos\BeOnMax\RimReshenie\obj\Debug\RimReshenie.pdb

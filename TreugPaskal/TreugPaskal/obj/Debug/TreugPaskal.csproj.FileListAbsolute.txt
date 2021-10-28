@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\TreugPaskal\TreugPaskal\bin\Debug\TreugPaskal.exe.config
+C:\Users\Andrey\source\repos\TreugPaskal\TreugPaskal\bin\Debug\TreugPaskal.exe
+C:\Users\Andrey\source\repos\TreugPaskal\TreugPaskal\bin\Debug\TreugPaskal.pdb
+C:\Users\Andrey\source\repos\TreugPaskal\TreugPaskal\obj\Debug\TreugPaskal.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\TreugPaskal\TreugPaskal\obj\Debug\TreugPaskal.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\TreugPaskal\TreugPaskal\obj\Debug\TreugPaskal.exe
+C:\Users\Andrey\source\repos\TreugPaskal\TreugPaskal\obj\Debug\TreugPaskal.pdb

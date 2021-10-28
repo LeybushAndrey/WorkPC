@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\CifrCoren\CifrCoren\bin\Debug\CifrCoren.exe.config
+C:\Users\Andrey\source\repos\CifrCoren\CifrCoren\bin\Debug\CifrCoren.exe
+C:\Users\Andrey\source\repos\CifrCoren\CifrCoren\bin\Debug\CifrCoren.pdb
+C:\Users\Andrey\source\repos\CifrCoren\CifrCoren\obj\Debug\CifrCoren.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\CifrCoren\CifrCoren\obj\Debug\CifrCoren.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\CifrCoren\CifrCoren\obj\Debug\CifrCoren.exe
+C:\Users\Andrey\source\repos\CifrCoren\CifrCoren\obj\Debug\CifrCoren.pdb

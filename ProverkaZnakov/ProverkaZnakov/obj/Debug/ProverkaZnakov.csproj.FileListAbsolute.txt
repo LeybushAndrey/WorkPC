@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\ProverkaZnakov\ProverkaZnakov\obj\Debug\ProverkaZnakov.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ProverkaZnakov\ProverkaZnakov\obj\Debug\ProverkaZnakov.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ProverkaZnakov\ProverkaZnakov\bin\Debug\ProverkaZnakov.exe.config
+C:\Users\Andrey\source\repos\ProverkaZnakov\ProverkaZnakov\bin\Debug\ProverkaZnakov.exe
+C:\Users\Andrey\source\repos\ProverkaZnakov\ProverkaZnakov\bin\Debug\ProverkaZnakov.pdb
+C:\Users\Andrey\source\repos\ProverkaZnakov\ProverkaZnakov\obj\Debug\ProverkaZnakov.exe
+C:\Users\Andrey\source\repos\ProverkaZnakov\ProverkaZnakov\obj\Debug\ProverkaZnakov.pdb

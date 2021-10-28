@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\codewars2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Andrey\source\repos\codewars2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Andrey\source\repos\codewars2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Andrey\source\repos\codewars2\ConsoleApp1\obj\Debug\SpinWords.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\codewars2\ConsoleApp1\obj\Debug\SpinWords.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\codewars2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Andrey\source\repos\codewars2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

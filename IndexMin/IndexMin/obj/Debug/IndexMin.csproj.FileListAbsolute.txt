@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\IndexMin\IndexMin\bin\Debug\IndexMin.exe.config
+C:\Users\Andrey\source\repos\IndexMin\IndexMin\bin\Debug\IndexMin.exe
+C:\Users\Andrey\source\repos\IndexMin\IndexMin\bin\Debug\IndexMin.pdb
+C:\Users\Andrey\source\repos\IndexMin\IndexMin\obj\Debug\IndexMin.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\IndexMin\IndexMin\obj\Debug\IndexMin.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\IndexMin\IndexMin\obj\Debug\IndexMin.exe
+C:\Users\Andrey\source\repos\IndexMin\IndexMin\obj\Debug\IndexMin.pdb

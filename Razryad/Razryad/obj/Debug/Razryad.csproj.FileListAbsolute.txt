@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Razryad\Razryad\obj\Debug\Razryad.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Razryad\Razryad\obj\Debug\Razryad.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Razryad\Razryad\bin\Debug\Razryad.exe.config
+C:\Users\Andrey\source\repos\Razryad\Razryad\bin\Debug\Razryad.exe
+C:\Users\Andrey\source\repos\Razryad\Razryad\bin\Debug\Razryad.pdb
+C:\Users\Andrey\source\repos\Razryad\Razryad\obj\Debug\Razryad.exe
+C:\Users\Andrey\source\repos\Razryad\Razryad\obj\Debug\Razryad.pdb
